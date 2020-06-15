@@ -20,7 +20,7 @@ public class Console {
         System.out.println(" key(4) Products by Type");
         System.out.println("");
         System.out.println("**********************************");
-        System.out.println("this is the master_branch");
+        System.out.println("this is branch_to_merge");
 
     }
 
