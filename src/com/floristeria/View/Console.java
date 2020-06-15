@@ -20,7 +20,7 @@ public class Console {
         System.out.println(" key(4) Products by Type");
         System.out.println("");
         System.out.println("**********************************");
-        System.out.println("new code in master");
+        System.out.println("new code");
 
     }
 
