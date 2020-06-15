@@ -74,8 +74,8 @@ public class FlowerShopApp {
         repository.addProduct(new Flower("Geranio", 1.99, "Blanco"));
         repository.addProduct(new Flower("Rosa", 2.50, "Rosa"));
 
-        repository.addProduct(new Deco("Maceta", 6.49, Material.pl�stico));
-        repository.addProduct(new Deco("Celosia", 1.99, Material.pl�stico));
+        repository.addProduct(new Deco("Maceta", 6.49, Material.plastico));
+        repository.addProduct(new Deco("Celosia", 1.99, Material.plastico));
         repository.addProduct(new Deco("Cuenco", 2.50, Material.madera));
     }
 
